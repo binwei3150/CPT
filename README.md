@@ -55,7 +55,7 @@ ChatGPT镜像站复制并托管了OpenAI的ChatGPT服务。这些镜像站通常
 
 推荐一个好用的框架：
 
-![CO-STAR 框架](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fb0f4500055645049f27b4818bf26ded~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=640&h=180&s=6060&e=webp&b=fffdfc)
+![image](https://github.com/binwei3150/CPT/assets/169982749/db90d915-02db-4740-837f-f2c82f004222)
 
 ### CO-STAR 框架：
 
